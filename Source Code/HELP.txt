@@ -1,0 +1,13 @@
+Entrar no terminal, no diretorio src e fazer o seguinte:
+
+rmiregistry 1099 &   (só pela primeira vez)
+javac *.java
+rmic BlogImp
+
+Dps disso execute o Servidor dentro do Netbeans
+Caso de erro importe o driver do postgres pelo netbeans
+
+Apos executar o cliente é só ir no terminal e executar o Cliente
+
+Lembrando que minhas tabelas do postgres estao com nome diferente das suas
+
