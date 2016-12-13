@@ -2,7 +2,7 @@
 
 Desenvolvimento de um blog utilizando RMI para a disciplina de Sistemas Operacionais - 3º Ano Ciência da Computação.
 
-As operações permitidas no micro blogue:
+As operações permitidas no micro blogue:<br />
 a) Usuários enviam post em um determinado tópico: post(@username, #tópico, texto) <br />
 b) Usuário ingressa em um determinado tópico: follow (@username, #tópico)<br />
 c) Usuário deixa de seguir e de acessar um determinado tópico: unsubscribe (@username, #tópico)<br />
